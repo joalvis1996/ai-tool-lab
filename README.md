@@ -1,2 +1,2 @@
 # ai-tool-lab
-Reviews and experiences using modern AI developer tools
+Reviews and experiences using modern AI developer tools.
